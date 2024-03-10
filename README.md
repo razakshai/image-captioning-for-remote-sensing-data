@@ -1,2 +1,13 @@
-# image-captioning-for-remote-sensing-data
-https://github.com/razakshai/image-captioning-for-remote-sensing-data/blob/main/20240310082621.mp4
+---
+title: Image Captioning
+emoji: 🦀
+colorFrom: red
+colorTo: gray
+sdk: streamlit
+sdk_version: 1.10.0
+app_file: app.py
+pinned: false
+duplicated_from: pritish/Image-Captioning
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
